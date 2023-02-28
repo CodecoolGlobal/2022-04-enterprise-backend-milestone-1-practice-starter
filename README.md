@@ -4,7 +4,6 @@ In this project you will have to implement a backend for a library.
 ## Notes
 - It is not a requirement, but it helps if you divide your application into controller, service and persistence (dao) layers.
 - Lombok is not available for this project.
-- Don't add any new dependencies to pom.xml, because their availability is not guaranteed on Qualified.
 - Don't use database for persistence. Store data in memory.
 
 ## Entities
